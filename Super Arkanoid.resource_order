@@ -22,6 +22,7 @@
     {"name":"obj_collider_wall","order":8,"path":"objects/obj_collider_wall/obj_collider_wall.yy",},
     {"name":"spr_block_purple","order":6,"path":"sprites/spr_block_purple/spr_block_purple.yy",},
     {"name":"spr_block_green","order":7,"path":"sprites/spr_block_green/spr_block_green.yy",},
+    {"name":"spr_git","order":11,"path":"sprites/spr_git/spr_git.yy",},
     {"name":"spr_collider_hole","order":10,"path":"sprites/spr_collider_hole/spr_collider_hole.yy",},
     {"name":"obj_block_yellow","order":7,"path":"objects/obj_block_yellow/obj_block_yellow.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},

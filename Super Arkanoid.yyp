@@ -39,6 +39,7 @@
     {"id":{"name":"obj_collider_wall","path":"objects/obj_collider_wall/obj_collider_wall.yy",},},
     {"id":{"name":"spr_block_purple","path":"sprites/spr_block_purple/spr_block_purple.yy",},},
     {"id":{"name":"spr_block_green","path":"sprites/spr_block_green/spr_block_green.yy",},},
+    {"id":{"name":"spr_git","path":"sprites/spr_git/spr_git.yy",},},
     {"id":{"name":"spr_collider_hole","path":"sprites/spr_collider_hole/spr_collider_hole.yy",},},
     {"id":{"name":"obj_block_yellow","path":"objects/obj_block_yellow/obj_block_yellow.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
